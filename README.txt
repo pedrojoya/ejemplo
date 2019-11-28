@@ -1,1 +1,1 @@
-Hola radiola master y nuevarama con GitKraken
+Hola radiola master y nuevarama con GitKraken generando conflicto
